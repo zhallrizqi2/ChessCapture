@@ -1,0 +1,2 @@
+rootProject.name = "Chess Native App"
+include ':app'
