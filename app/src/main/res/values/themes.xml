@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.ChessNative" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>

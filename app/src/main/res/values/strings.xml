@@ -1,1 +1,4 @@
-
+<resources>
+    <string name="app_name">Chess Native</string>
+    <string name="new_game">Game Baru</string>
+</resources>
